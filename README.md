@@ -22,4 +22,5 @@ Delete admin
 ![hasil delete admin](https://user-images.githubusercontent.com/45525482/148656877-e9fa264d-dfab-4740-ab5a-9903ec2a4483.PNG)
 Delete buku
 ![delete data buku](https://user-images.githubusercontent.com/45525482/148656953-7a99cbba-2cee-42cd-91ff-d47d1da53d8e.PNG)
-
+Delete mahasiswa
+![delete mahasiswa](https://user-images.githubusercontent.com/45525482/148657740-c7c05f76-9e06-42fe-bca5-f41760de0606.PNG)
